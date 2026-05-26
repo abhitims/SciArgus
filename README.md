@@ -1,4 +1,4 @@
-# SciArgus
+# SciArgus 
 
 **A free, automated weekly newsletter that watches the scientific literature for you.**
 
